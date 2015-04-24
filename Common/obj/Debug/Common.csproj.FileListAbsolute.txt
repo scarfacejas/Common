@@ -1,0 +1,5 @@
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common\bin\Debug\Common.dll
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common\bin\Debug\Common.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common\obj\Debug\Common.dll
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common\obj\Debug\Common.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

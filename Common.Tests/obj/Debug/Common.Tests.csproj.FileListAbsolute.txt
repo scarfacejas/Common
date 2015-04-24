@@ -1,0 +1,7 @@
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\obj\Debug\Common.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\bin\Debug\Common.Tests.dll
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\bin\Debug\Common.Tests.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\bin\Debug\Common.dll
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\bin\Debug\Common.pdb
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\obj\Debug\Common.Tests.dll
+C:\Users\jason.smith\Documents\Personal\Dev\Common\Common.Tests\obj\Debug\Common.Tests.pdb
